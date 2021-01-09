@@ -1,5 +1,4 @@
-# Jud-App-System-of-judges---In-Node-Js-Expres-Mongoose-Joi-Bcrypt
-System for Judges
+# Jud-App-System-of-judges---In-Node-Js-Expres-Mongoose-Vue Js -vuex
 MINIJUST
 Poor judgment refers to the inability to make appropriate decisions. If your relative has Alzheimer's or another type of dementia, she might be unable to evaluate the different factors that should be considered when making a decision
 causes of poor judgment
